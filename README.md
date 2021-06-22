@@ -5,7 +5,7 @@ your own repository and fulfill/rewrite this document (at least, replace everyth
 
 ## Team
 
-- { Student's Name and Surname (in English) } { email } — { GitHub account }
+-loay elhefni lalhefny57@gmail.com
 - ...
 - { Student's Name and Surname (in English) } { email } — { GitHub account }
 
